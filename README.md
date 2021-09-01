@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### 🚀 Quick Stats
+### 🚀 🚀 🚀 🚀
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=petar-nikov&show_icons=true&count_private=true&line_height=21&theme=react" alt="Petar Nikov Github Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=petar-nikov&show_icons=true&count_private=true&line_height=21&theme=react" alt="Petar Nikov Github Stats" />
 </p>
 <!--
 **petar-nikov/petar-nikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
