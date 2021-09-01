@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> on stuff for [@Gamitee](https://gamitee.com/).
+- 😄 fact: I love the process of learning and unkown.
+- 
 ### 🚀 🚀 🚀 🚀
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=petar-nikov&show_icons=true&count_private=true&line_height=21&theme=react" alt="Petar Nikov Github Stats" />
