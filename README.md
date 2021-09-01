@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> on stuff for [@Gamitee](https://gamitee.com/).
-- 😄 fact: I love the process of learning and unkown.
 
 ### 🚀 🚀 🚀 🚀
 <p align="center">
